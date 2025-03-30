@@ -1,0 +1,2 @@
+../datasets/VOCdevkit/VOC2007/JPEGImages/001014.jpg
+../datasets/VOCdevkit/VOC2007/JPEGImages/008509.jpg

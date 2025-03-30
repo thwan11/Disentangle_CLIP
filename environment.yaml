@@ -17,6 +17,7 @@ dependencies:
       - tqdm
       - git+https://github.com/openai/CLIP.git
       - matplotlib
+      - seaborn
       - pandas
       - numpy
       - pillow
